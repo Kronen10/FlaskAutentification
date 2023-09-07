@@ -1,9 +1,0 @@
-pip install -r requirements.txt            -установка из файла зависимостей
-
-
-pip uninstall -y -r requirements.txt      -удаление зависимостей из файла
-
-
-
-
-pip freeze > requirements.txt              -запись зависимостей в файл
